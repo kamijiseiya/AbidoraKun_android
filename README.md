@@ -1,0 +1,2 @@
+# AbidoraKun_android
+アビドラ君のAndroidバージョン
