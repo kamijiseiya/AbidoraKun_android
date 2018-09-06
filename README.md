@@ -1,2 +1,2 @@
 # AbidoraKun_android
-アビドラ君のAndroidバージョン
+アビドラ君のネイティブアプリバージョン
